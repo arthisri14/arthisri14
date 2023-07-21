@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="left">I am Arthi sri</h1>
+<h1 align="left">Hi!</h1>
 
 ###
 
@@ -90,6 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 ### :fire: My Stats :
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arthisri14&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthisri14&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
