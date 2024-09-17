@@ -11,8 +11,7 @@
 
 ###
 
-<p align="left">I'm Arthi Sri, a third-year CSE student, and hello.<br><br>- 🔭 I'm currently working on NLP projects.<br>- 📚 I'm currently learning react native<br>- ⚡️ Google certified Python developer.<br>- 💻 Looking for freelance projects.</p>
-
+<p align="left">I'm Arthi Sri, a Final-year CSE student, and hello.<br><br>- 🔭 I'm currently working on NLP and GenAI projects.<br>-
 ###
 
 <div id="badges">
