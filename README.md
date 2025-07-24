@@ -12,7 +12,8 @@
 ###
 
 <p align="left">I'm Arthi Sri, a Graduate CSE student, and hello.<br><br>- 🔭 I'm currently working on AI Agents and RAG projects.<br>-
-###
+
+  ###
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/arthi-sri-039769227">
